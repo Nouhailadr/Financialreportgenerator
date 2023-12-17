@@ -3,6 +3,7 @@
 ## Overview
 
 The Financial Report Generator is a powerful AI-driven application that simplifies the extraction of precise financial insights from complex statements. It offers a user-friendly interface, customizable filters, and natural language processing for effortless data interpretation.
+
 ![image](https://github.com/Nouhailadr/Financialreportgenerator/assets/82158822/92883f54-ed42-42fe-8b4c-cde6ab2e0996)
 
 ## Features
